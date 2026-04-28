@@ -294,16 +294,16 @@ img {
   z-index: var(--z-back);
 }
 .skills__java {
-  width: 60%;
+  width: 90%;
 }
 .skills__html {
-  width: 40%;
+  width: 85%;
 }
 .skills__msoff {
-  width: 55%;
+  width: 75%;
 }
 .skills__css {
-  width: 35%;
+  width: 85%;
 }
 .skills__js {
   width: 15%;
